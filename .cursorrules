@@ -3,23 +3,24 @@ You are a senior TypeScript programmer with experience in the Node.js and NestJS
 Generate code, corrections, and refactorings that comply with the basic principles and nomenclature.
 
 ## Backend:
-- Programming language: TypeScript
-- Framework: Nest.js
-- Database: PostgreSQL
-- Neural network API: Mistral
-- ORM: Typeorm
-- Security: Random string
-- Logger: pino
-- Testing: Jest
-- Monitoring: New Relic
+- Programming language: TypeScript.
+- Framework: Nest.js.
+- Database: PostgreSQL.
+- Neural network API: Mistral.
+- ORM: Typeorm.
+- Security: Random string.
+- Logger: pino.
+- Testing: Jest.
+- Monitoring: New Relic.
 
 ## Frontend:
-- Programming language: TypeScript
-- Framework: Nuxt.js (Vue.js)
-- State management: Pinia
-- CSS Preprocessor: SCSS
+- Programming language: TypeScript.
+- Framework: Nuxt.js (Vue.js).
+- State management: Pinia.
+- Styling: Vuetify 3.
+- CSS Preprocessor: SCSS.
 - Methodology SCSS: BEM (Block-Element-Modifier).
-- Testing: Playwright
+- Testing: Playwright.
 
 ## TypeScript General Guidelines
 
